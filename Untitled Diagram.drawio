@@ -1,1 +1,240 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T13:17:09.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" version="16.4.8" etag="g_oL1DKGc4pL5V7W-4LN" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-17T14:34:35.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Hnm490WYw7qwQQ1WGYBU" version="16.4.8" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="981" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-1" value="סמסטר אביב 2022" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="10" width="640" height="605.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-2" value="8:30 - 10:30" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=#f8cecc;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;align=center;fontFamily=Lucida Console;fontSize=10;strokeColor=#b85450;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-1">
+          <mxGeometry y="40" width="640" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-3" value="Sunday" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#f5f5f5;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;fontColor=#333333;strokeColor=#666666;glass=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-2">
+          <mxGeometry x="40" width="120" height="150" as="geometry">
+            <mxRectangle width="120" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-84" value="קומבי" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-3">
+          <mxGeometry y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-4" value="Monday" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#f5f5f5;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;fontColor=#333333;strokeColor=#666666;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-2">
+          <mxGeometry x="160" width="120" height="150" as="geometry">
+            <mxRectangle width="120" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-45" value="מבני נתונים - טאוב 10" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-4">
+          <mxGeometry y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-5" value="Tuesday" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#f5f5f5;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;fontColor=#333333;strokeColor=#666666;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-2">
+          <mxGeometry x="280" width="120" height="150" as="geometry">
+            <mxRectangle width="120" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-20" value="Wednesday" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#f5f5f5;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;fontColor=#333333;strokeColor=#666666;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-2">
+          <mxGeometry x="400" width="120" height="150" as="geometry">
+            <mxRectangle width="120" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-58" value="פיזיקה 2 - סגו 1" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-20">
+          <mxGeometry y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-66" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=12;fontStyle=0" edge="1" parent="IbxrdZzYAp_s3OxI5cFc-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="90" as="sourcePoint" />
+            <mxPoint x="120" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-69" value="9:30 - 10:30&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dnone%3Bhtml%3D1%3Brounded%3D0%3BfontFamily%3DLucida%20Console%3BfontSize%3D12%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22680%22%20y%3D%22240%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22800%22%20y%3D%22240%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Lucida Console;fontSize=12;fontStyle=1" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-20">
+          <mxGeometry y="90" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-99" value="אלגוריתמים נומריים" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;fontColor=#000000;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-20">
+          <mxGeometry y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-100" value="8:30 - 9:30" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Lucida Console;fontSize=12;fontStyle=1" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-20">
+          <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-23" value="Thursday" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#f5f5f5;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;fontColor=#333333;strokeColor=#666666;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-2">
+          <mxGeometry x="520" width="120" height="150" as="geometry">
+            <mxRectangle width="120" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-6" value="10:30 - 12:30" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=#f8cecc;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;strokeColor=#b85450;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-1">
+          <mxGeometry y="190" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-7" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-6">
+          <mxGeometry x="40" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-87" value="את&quot;מ" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-7">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-8" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-6">
+          <mxGeometry x="160" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-46" value="פיזיקה 2 - צרציל 999" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-8">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-9" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-6">
+          <mxGeometry x="280" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-21" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-6">
+          <mxGeometry x="400" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-47" value="מבני נתונים - טאוב 8" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-21">
+          <mxGeometry y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-60" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=12;fontStyle=0" edge="1" parent="IbxrdZzYAp_s3OxI5cFc-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="59.66" as="sourcePoint" />
+            <mxPoint x="120" y="59.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-59" value="פיסיקה 2 -אולמן 703" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-21">
+          <mxGeometry y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-70" value="10:30 - 11:30" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Lucida Console;fontSize=12;fontStyle=1" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-21">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-72" value="11:30 - 12:30" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Lucida Console;fontSize=12;fontStyle=1" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-21">
+          <mxGeometry y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-24" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-6">
+          <mxGeometry x="520" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-81" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-24">
+          <mxGeometry y="60" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-82" value="מאיה 12:00" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-81">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-10" value="12:30 -16:00" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=#f8cecc;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;strokeColor=#b85450;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-1">
+          <mxGeometry y="310" width="640" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-11" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-10">
+          <mxGeometry x="40" width="120" height="181" as="geometry">
+            <mxRectangle width="120" height="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-88" value="את&quot;מ" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;fontColor=#000000;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-11">
+          <mxGeometry y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-89" value="12:30 - 13:30" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Lucida Console;fontSize=12;fontStyle=1" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-11">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-90" value="13:30 - 15:30" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Lucida Console;fontSize=12;fontStyle=1" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-11">
+          <mxGeometry y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-91" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-11">
+          <mxGeometry y="50" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-92" value="אלגוריתמים נומריים" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-91">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-12" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-10">
+          <mxGeometry x="160" width="120" height="181" as="geometry">
+            <mxRectangle width="120" height="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-53" value="קומבי - אולמן 603" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-12">
+          <mxGeometry y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-56" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=12;fontStyle=0" edge="1" parent="IbxrdZzYAp_s3OxI5cFc-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="59.66" as="sourcePoint" />
+            <mxPoint x="120" y="59.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-51" value="מבני נתונים - טאוב 10" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-12">
+          <mxGeometry y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-74" value="12:30 - 13:30" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Lucida Console;fontSize=12;fontStyle=1" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-12">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-73" value="13:30 - 14:30" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Lucida Console;fontSize=12;fontStyle=1" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-12">
+          <mxGeometry y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-64" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=12;startArrow=none;fontStyle=0" edge="1" parent="IbxrdZzYAp_s3OxI5cFc-12" source="IbxrdZzYAp_s3OxI5cFc-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="120" as="sourcePoint" />
+            <mxPoint x="120" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-50" value="פיסיקה 2 -אולמן 703" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-12">
+          <mxGeometry y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-71" value="14:30 -15:30" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Lucida Console;fontSize=12;fontStyle=1" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-12">
+          <mxGeometry y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-65" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=12;fontStyle=0" edge="1" parent="IbxrdZzYAp_s3OxI5cFc-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="120" as="sourcePoint" />
+            <mxPoint x="120" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-13" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-10">
+          <mxGeometry x="280" width="120" height="181" as="geometry">
+            <mxRectangle width="120" height="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-22" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-10">
+          <mxGeometry x="400" width="120" height="181" as="geometry">
+            <mxRectangle width="120" height="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-25" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-10">
+          <mxGeometry x="520" width="120" height="181" as="geometry">
+            <mxRectangle width="120" height="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-83" value="מאיה" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-25">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-38" value="16:00 - 17:30" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=#f8cecc;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;strokeColor=#b85450;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-1">
+          <mxGeometry y="491" width="640" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-39" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-38">
+          <mxGeometry x="40" width="120" height="114" as="geometry">
+            <mxRectangle width="120" height="114" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-40" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-38">
+          <mxGeometry x="160" width="120" height="114" as="geometry">
+            <mxRectangle width="120" height="114" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-49" value="סלסה מתקדמים" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=12;fontStyle=0;sketch=1;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-40">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-41" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-38">
+          <mxGeometry x="280" width="120" height="114" as="geometry">
+            <mxRectangle width="120" height="114" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-42" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-38">
+          <mxGeometry x="400" width="120" height="114" as="geometry">
+            <mxRectangle width="120" height="114" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbxrdZzYAp_s3OxI5cFc-43" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fontFamily=Lucida Console;" vertex="1" parent="IbxrdZzYAp_s3OxI5cFc-38">
+          <mxGeometry x="520" width="120" height="114" as="geometry">
+            <mxRectangle width="120" height="114" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
